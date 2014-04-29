@@ -1,2 +1,4 @@
+====================================================
 User Stories for app RezRoundUP
-Lead Developer: SeesTheEnemy
+Lead Developer: SeesTheEnemy*
+====================================================
